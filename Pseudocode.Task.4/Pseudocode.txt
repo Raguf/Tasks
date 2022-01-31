@@ -1,0 +1,24 @@
+﻿program test - calculate
+
+READ a
+READ b
+READ c
+READ d
+
+IF (a >= 100 && a < 1000) THEN
+
+SET b = a * 10; 
+SET c = b + 7; 
+SET d = (c * 7) / 100;
+
+	DISPLAY a
+	DISPLAY b
+	DISPLAY c
+	DISPLAY d
+
+ELSE
+   "3 reqemli deyil"
+
+ENDIF
+
+end program

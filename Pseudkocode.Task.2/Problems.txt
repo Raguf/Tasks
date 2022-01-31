@@ -1,0 +1,11 @@
+﻿/* 5 reqemli eded verilib. 
+   Bu ededin evvel 18 % 
+   sonra ise 3 % tap.*/
+
+   Input: a = 12345;
+
+   Calculate: b = (a * 18) / 100;  
+   Calculate: c = (b * 3) / 100;
+
+   Output: b = 2222;
+   Output: c = 66;

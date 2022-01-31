@@ -1,0 +1,14 @@
+﻿/* 4 reqemli eded verilib. 
+ * Bu ededin evvelin 4 reqemi , 
+ * axirina ise 44 ededini artir. 
+ * Alinan cavabin 44 % tap*/
+
+ Input: a = 1234;
+
+   Calculate: b = 40000 + a;         
+   Calculate: c = (b * 100) + 44;    
+   Calculate: d = (c * 44) / 100;   
+
+   Output: b = 41234;
+   Output: c = 4123444;
+   Output: d = 1814315;

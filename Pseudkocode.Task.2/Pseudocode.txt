@@ -1,0 +1,21 @@
+﻿program test - calculate
+
+READ a
+READ b
+READ c
+
+IF (a >= 10000 && a < 100000) THEN
+
+SET b = (a * 18) / 100;
+SET c = (b * 3) / 100;
+
+	DISPLAY a
+	DISPLAY b
+	DISPLAY c
+
+ELSE
+   "5 reqemli deyil"
+
+ENDIF
+
+end program

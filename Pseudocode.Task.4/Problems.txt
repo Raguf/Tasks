@@ -1,0 +1,13 @@
+﻿/* 3 reqemli eded verilib. 
+   Bu ededin axirina 7 artir. 
+   Sonra cavabin 7% tap;*/
+
+     Input: a = 123;
+
+     Calculate: b = a * 10;         
+     Calculate: c = b + 7;          
+     Calculate: d = (c * 7) / 100;  
+
+    Output:  b = 1230;
+    Output:  c = 1237;
+    Output:  d = 86;
